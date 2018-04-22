@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# raw data from: https://github.com/plotly/datasets/blob/master/Canada%20Immigration.csv
+# http://wiki.tcl.tk/3943
 M = []
 with open("data.csv", "r") as fileReader:
     lines = fileReader.readline()
