@@ -1,0 +1,12 @@
+Exercise 1
+Imagine that you are in a conversation with your friends about climate change and global warming. And as the conversation goes, some of them seems to be skeptical about it. So, as the good undergraduate computer scientist that you are, you want to show them one simple evidence of it. After all, you are not talking nonsenses.
+Acess: https://data.giss.nasa.gov/gistemp/ 
+Download de data set about the Global Mean Estimates Based on Land-Surface Air Temperature, and make a plot of the annual global mean temperature (first item) from 1880 to 2017. 
+Tip: 1- You can delete “manually” the first two and the last rows 
+       2-	The global mean temperature is the 14º 	item of each row
+      3 - Try to follow the 
+
+
+Exercise 2
+Once you show to your friends the power and simplicity of Maplotlib, they want to now what else this beauty is capable of. Now, take the follow data set and make 2 sublplots. One for the third and other fo the fourth atributte, each one with his own dispersion caps.
+http://wiki.tcl.tk/3943
